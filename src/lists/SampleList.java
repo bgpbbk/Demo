@@ -28,6 +28,8 @@ public class SampleList {
 		System.out.println(lstr.remove("jogi")); 
 		
 		System.out.println(lstr);
+
+		//using ListIterator
 		
 		lsit=lstr.listIterator();
 		System.out.println("Elements in forward direction");
