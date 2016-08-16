@@ -11,6 +11,7 @@ public class SampleList {
 		List<String> lstr=new ArrayList<String>();
 		ListIterator<String>lsit=null;
 		
+		//adding to list
 		lstr.add("raju");
 		lstr.add("jogi");
 		lstr.add("gopi");
